@@ -10,7 +10,7 @@ Cloud Custodian is a tool that unifies the dozens of tools and scripts most orga
 
 Organizations can use Custodian to manage their AWS environments by ensuring compliance to security policies, tag policies, garbage collection of unused resources, and cost management via off-hours resource management, all from the same place. Custodian policies are written in simple YAML configuration files that specify given resource types and are constructed from a vocabulary of filters and actions.
 
-Please go for further information to the [official documentation](http://www.capitalone.io/cloud-custodian/docs/index.html).
+Please go for further information to the [official documentation](https://www.cloudcustodian.io/docs/index.html).
 
 ## Installation
 
